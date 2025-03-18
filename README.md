@@ -9,7 +9,6 @@ You might also be interested in:
 - Arduino IDE - 1.8.19
 - Arduino ESP32 Boards - 2.0.18-arduino.5 - ESP32C3 Dev Module
 - [NimBLE-Arduino - by Ryan powell 1.4.3](https://github.com/h2zero/NimBLE-Arduino)
-- 
 
 ## Features
 
