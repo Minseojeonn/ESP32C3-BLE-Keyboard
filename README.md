@@ -5,6 +5,10 @@ You might also be interested in:
 - [ESP32-BLE-Mouse](https://github.com/T-vK/ESP32-BLE-Mouse)
 - [ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad)
 
+# Requirements for this repo
+- Arduino IDE - 1.8.19
+- Arduino ESP32 Boards - 2.0.18-arduino.5
+- [NimBLE-Arduino - by Ryan powell 1.4.3](https://github.com/h2zero/NimBLE-Arduino)
 
 ## Features
 
